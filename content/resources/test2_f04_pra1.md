@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 18e024d4-6042-78cf-ab50-a4ccd259fff1
 resourcetype: Document
 title: test2_f04_pra1.pdf
 uid: bd30e702-aa29-1d28-3c37-92a3de361649

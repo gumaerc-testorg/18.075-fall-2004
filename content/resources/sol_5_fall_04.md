@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d7ede801-db5e-1284-928f-efce8f57b588
 resourcetype: Document
 title: sol_5_fall_04.pdf
 uid: 4fa2eee6-e810-74e0-b356-97ff3ee7e43b

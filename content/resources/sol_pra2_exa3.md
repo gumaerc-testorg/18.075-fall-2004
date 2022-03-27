@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 18e024d4-6042-78cf-ab50-a4ccd259fff1
 resourcetype: Document
 title: sol_pra2_exa3.pdf
 uid: 38ae3bf7-b24b-8c86-8cc3-7179fef13b99

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 18e024d4-6042-78cf-ab50-a4ccd259fff1
 resourcetype: Document
 title: sol_pra1_quiz1.pdf
 uid: 108129a8-c2bd-49ad-c8dd-e26d3cc42ed3
