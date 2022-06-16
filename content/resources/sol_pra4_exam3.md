@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-075-advanced-calculus-for-engineers-fall-2004/f76331c7f9b9367b7d1c566a7ccc71bf_sol_pra4_exam3.pdf
+file: /courses/18-075-advanced-calculus-for-engineers-fall-2004/f76331c7f9b9367b7d1c566a7ccc71bf_sol_pra4_exam3.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams
