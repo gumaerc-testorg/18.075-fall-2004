@@ -7,6 +7,7 @@ file: /courses/18-075-advanced-calculus-for-engineers-fall-2004/8c1c58fabbdc2efc
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: sol_7_fall_04.pdf
 uid: 8c1c58fa-bbdc-2efc-5a3e-d97622ef30d3
 ---
 Solutions to the assigned problems from the course textbook: Hildebrand, Francis. Advanced Calculus for Applications. 2nd ed. Englewood Cliffs: Prentice Hall, March 31, 1976.
-

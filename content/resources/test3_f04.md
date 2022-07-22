@@ -5,6 +5,7 @@ file: /courses/18-075-advanced-calculus-for-engineers-fall-2004/fbf49d49ad13ed63
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: test3_f04.pdf
 uid: fbf49d49-ad13-ed63-e659-45b72e64585a
 ---
 Exam problems.
-

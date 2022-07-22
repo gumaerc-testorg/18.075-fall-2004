@@ -5,6 +5,7 @@ file: /courses/18-075-advanced-calculus-for-engineers-fall-2004/33b4c460ec7195cb
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sol_pra1_ex3.pdf
 uid: 33b4c460-ec71-95cb-0b65-543d35ae4a0d
 ---
 Solution set for the in-class practice exam.
-

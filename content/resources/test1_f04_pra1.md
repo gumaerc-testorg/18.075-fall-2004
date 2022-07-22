@@ -5,6 +5,7 @@ file: /courses/18-075-advanced-calculus-for-engineers-fall-2004/e74f0b2f78a73927
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: test1_f04_pra1.pdf
 uid: e74f0b2f-78a7-3927-36be-e51e567ccd03
 ---
 Practice exam problems.
-

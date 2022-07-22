@@ -5,6 +5,7 @@ file: /courses/18-075-advanced-calculus-for-engineers-fall-2004/ca16c95688978e6b
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pract_1_inclass.pdf
 uid: ca16c956-8897-8e6b-cc93-4a905ca7b336
 ---
 Practice test to be completed in-class.
-

@@ -6,6 +6,7 @@ file: /courses/18-075-advanced-calculus-for-engineers-fall-2004/9be5fb2d6499bb50
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture4.pdf
 uid: 9be5fb2d-6499-bb50-f767-da36a06616ec
 ---
 Handwritten notes from Lecture 4. These notes were prepared by Melike Yersiz, a student in the class, and are used with permission.
-
