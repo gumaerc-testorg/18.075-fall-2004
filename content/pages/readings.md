@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides readings detail.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: dfc91a91-adfb-d395-73d5-34d2aa52ae06
 ---
@@ -100,7 +104,7 @@ Properties of Laurent Series, Singularities
 {{< tdopen >}}
 Evaluation of Real Definite Integrals (10.13)  
   
-Handout 1 on Overview of Evaluation of (Real) Definite Integrals ([PDF]({{< baseurl >}}/resources/handout1))  
+Handout 1 on Overview of Evaluation of (Real) Definite Integrals ({{% resource_link 930aca15-01df-8216-9709-c1da92771cb4 "PDF" %}})  
   
 Limiting Contours (10.14)  
   
@@ -138,7 +142,7 @@ Singular Points of Linear Second-Order ODEs (4.3)
   
 The Method of Frobenius (4.4)  
   
-Handout 2 on An Overview of the Fobenius Method ([PDF]({{< baseurl >}}/resources/handout2))
+Handout 2 on An Overview of the Fobenius Method ({{% resource_link 7f63a82f-fef2-ae3e-f31b-c94a719d2fa7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
