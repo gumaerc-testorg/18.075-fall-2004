@@ -2,6 +2,7 @@
 content_type: resource
 description: Practice exam problems.
 file: /courses/18-075-advanced-calculus-for-engineers-fall-2004/39160c517a8cb0f07af5627e7ee496b0_test2_f04_pra2.pdf
+file_size: 58355
 file_type: application/pdf
 learning_resource_types:
 - Exams

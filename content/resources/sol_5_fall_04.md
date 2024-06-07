@@ -4,6 +4,7 @@ description: 'Solutions to the assigned problems from the course textbook: Hilde
   Francis. Advanced Calculus for Applications. 2nd ed. Englewood Cliffs: Prentice
   Hall, March 31, 1976.'
 file: /courses/18-075-advanced-calculus-for-engineers-fall-2004/4fa2eee6e81074e0b35697ff3ee7e43b_sol_5_fall_04.pdf
+file_size: 131811
 file_type: application/pdf
 learning_resource_types:
 - Assignments
