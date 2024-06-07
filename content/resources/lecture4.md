@@ -3,6 +3,7 @@ content_type: resource
 description: Handwritten notes from Lecture 4. These notes were prepared by Melike
   Yersiz, a student in the class, and are used with permission.
 file: /courses/18-075-advanced-calculus-for-engineers-fall-2004/9be5fb2d6499bb50f767da36a06616ec_lecture4.pdf
+file_size: 122243
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

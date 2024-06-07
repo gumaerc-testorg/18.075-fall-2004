@@ -2,6 +2,7 @@
 content_type: resource
 description: Solution set for the in-class practice exam.
 file: /courses/18-075-advanced-calculus-for-engineers-fall-2004/33b4c460ec7195cb0b65543d35ae4a0d_sol_pra1_ex3.pdf
+file_size: 87754
 file_type: application/pdf
 learning_resource_types:
 - Exams
