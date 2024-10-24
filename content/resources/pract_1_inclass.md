@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Practice test to be completed in-class.
-file: /courses/18-075-advanced-calculus-for-engineers-fall-2004/ca16c95688978e6bcc934a905ca7b336_pract_1_inclass.pdf
+file: /ol-ocw-studio-app/courses/18-075-advanced-calculus-for-engineers-fall-2004/ca16c95688978e6bcc934a905ca7b336_pract_1_inclass.pdf
 file_size: 39973
 file_type: application/pdf
 learning_resource_types:
