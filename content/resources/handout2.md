@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supplementary notes.
-file: /ol-ocw-studio-app/courses/18-075-advanced-calculus-for-engineers-fall-2004/7f63a82ffef2ae3ef31bc94a719d2fa7_handout2.pdf
+file: /courses/18-075-advanced-calculus-for-engineers-fall-2004/7f63a82ffef2ae3ef31bc94a719d2fa7_handout2.pdf
 file_size: 607766
 file_type: application/pdf
 learning_resource_types:

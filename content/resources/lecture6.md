@@ -2,7 +2,7 @@
 content_type: resource
 description: Handwritten notes from Lecture 6. These notes were prepared by Melike
   Yersiz, a student in the class, and are used with permission.
-file: /ol-ocw-studio-app/courses/18-075-advanced-calculus-for-engineers-fall-2004/d7f2087acfea13f66702928008a98e4f_lecture6.pdf
+file: /courses/18-075-advanced-calculus-for-engineers-fall-2004/d7f2087acfea13f66702928008a98e4f_lecture6.pdf
 file_size: 120543
 file_type: application/pdf
 learning_resource_types:
