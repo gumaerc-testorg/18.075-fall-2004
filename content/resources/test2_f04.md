@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Exam problems.
-file: /ol-ocw-studio-app/courses/18-075-advanced-calculus-for-engineers-fall-2004/14c5fec0c753e490e9c5b700edeb02d7_test2_f04.pdf
+file: /courses/18-075-advanced-calculus-for-engineers-fall-2004/14c5fec0c753e490e9c5b700edeb02d7_test2_f04.pdf
 file_size: 69568
 file_type: application/pdf
 learning_resource_types:
