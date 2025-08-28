@@ -2,7 +2,7 @@
 content_type: resource
 description: Handwritten notes from Lecture 32. These notes were prepared by Melike
   Yersiz, a student in the class, and are used with permission.
-file: /courses/18-075-advanced-calculus-for-engineers-fall-2004/d389043db25b7da89d1ee859ff852077_lecture32.pdf
+file: /ol-ocw-studio-app/courses/18-075-advanced-calculus-for-engineers-fall-2004/d389043db25b7da89d1ee859ff852077_lecture32.pdf
 file_size: 234687
 file_type: application/pdf
 learning_resource_types:
