@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Practice exam problems.
-file: /courses/18-075-advanced-calculus-for-engineers-fall-2004/bd30e702aa291d283c3792a3de361649_test2_f04_pra1.pdf
+file: /ol-ocw-studio-app/courses/18-075-advanced-calculus-for-engineers-fall-2004/bd30e702aa291d283c3792a3de361649_test2_f04_pra1.pdf
 file_size: 46062
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Handwritten notes from Lecture 20. These notes were prepared by Melike
   Yersiz, a student in the class, and are used with permission.
-file: /courses/18-075-advanced-calculus-for-engineers-fall-2004/585a5ac4f9bccbda26f7516c7d59dbc7_lecture20.pdf
+file: /ol-ocw-studio-app/courses/18-075-advanced-calculus-for-engineers-fall-2004/585a5ac4f9bccbda26f7516c7d59dbc7_lecture20.pdf
 file_size: 175112
 file_type: application/pdf
 learning_resource_types:
